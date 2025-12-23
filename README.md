@@ -1,4 +1,4 @@
-Netflix Azure Data Engineering Project
+Scalable Media Analytics Data Pipeline
 
 This project showcases a production-style, end-to-end Azure Data Engineering pipeline built using a Netflix dataset. It demonstrates strong cloud data engineering fundamentals, including ingestion, transformation, orchestration, metadata management, and analytics-ready data delivery using modern Azure services.
 
